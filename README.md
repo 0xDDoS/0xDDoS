@@ -1,5 +1,4 @@
 # Hello I'm 0xDDoS 👋🏼:
-👋 Hi, I’m @0xDDoS<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xDDoS/0xDDoS/refs/heads/main/github-snake-dark.svg" />
